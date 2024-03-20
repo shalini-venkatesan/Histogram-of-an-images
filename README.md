@@ -63,16 +63,15 @@ cv2.destroyAllWindows()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/a4251306-be99-41e0-af29-29fb1f21357f)
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/82ee26f7-be6e-486c-9c1f-dee8f21dc324)
 
 
 
-
-![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/3a871848-bdb4-4c8d-b2a4-995cc0fb1ba5)
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/4bd8a3c5-a4b2-49de-a4d1-7ddb2e51f583)
 ### Histogram of Grayscale Image and any channel of Color Image
-![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/01631636-bc07-4937-a404-3e1abbf17fb0)
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/45630f20-e3be-45ec-8bdb-c91017f85bc9)
 
-![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/8797ed86-76f7-432c-a7ec-a92d33665c1f)
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/c4ea87be-8a38-4b3a-93d3-9cf844877833)
 
 ### Histogram Equalization of Grayscale Image.
 
