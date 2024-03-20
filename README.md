@@ -52,19 +52,28 @@ plt.show()
 
 ### Histogram Equalization
 ```
+import cv2
+gray_image = cv2.imread("i11.jpg",0)
+cv2.imshow('Grey Scale Image',gray_image)
+equ = cv2.equalizeHist(gray_image)
+cv2.imshow("Equalized Image",equ)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
 
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
-![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/35ea401a-c4fb-4967-8584-aa4f0484e764)
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/a4251306-be99-41e0-af29-29fb1f21357f)
 
 
+
+
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/3a871848-bdb4-4c8d-b2a4-995cc0fb1ba5)
 ### Histogram of Grayscale Image and any channel of Color Image
-
-![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/909ab7f6-1d94-4229-a736-69a98f3bf176)
-
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/01631636-bc07-4937-a404-3e1abbf17fb0)
 
 ### Histogram Equalization of Grayscale Image.
+![image](https://github.com/shalini-venkatesan/Histogram-of-an-images/assets/118720291/8797ed86-76f7-432c-a7ec-a92d33665c1f)
 
 
 
